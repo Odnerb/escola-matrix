@@ -13,4 +13,4 @@ O Sistema por enquanto só fornece o básico e a relação entre
 as três classes principais.
 
 # Digrama UML (Linguagem Unificada de Modelagem)
-<img src='Diagrama UML - Escola'>
+![Diagrama UML - Escola](https://github.com/Odnerb/escola-matrix/assets/70730555/7e476c6c-21c1-4854-8eb5-b9692595bef8)
